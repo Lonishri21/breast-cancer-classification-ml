@@ -1,0 +1,25 @@
+# Python cache & environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Sensitive files
+.env
+
+# ML outputs
+models/
+reports/
